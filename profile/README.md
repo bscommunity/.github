@@ -10,7 +10,7 @@ The project is currently available through two platforms:
 - 📱 Android App – Explore charts, browse content, and receive in-app updates
 - 🖥️ Web Dashboard – Publish and manage community content. Ideal for creators.
 
----
+<br>
 
 ## 🚀 Features
 
@@ -27,7 +27,7 @@ The project is currently available through two platforms:
 - **Link everything on a single account**  
   Available in future releases
 
----
+<br>
 
 ## 📱 Installation
 
@@ -39,7 +39,7 @@ The project is currently available through two platforms:
 2. Install it on your Android device  
 3. Launch and explore! 🎉
 
----
+<br>
 
 ## 🛠 Contributing
 
