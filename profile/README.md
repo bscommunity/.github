@@ -35,7 +35,7 @@ The project is currently available through two platforms:
 > Due to the nature of the project design, downloads are only available for Android devices.
 > We do not plan to develop a version for iOS devices at the current state of the project.
 
-1. Download the latest APK from the [Releases](https://github.com/your-username/bscm/releases) page  
+1. Download the latest APK from the [Releases](https://github.com/bscommunity/android/releases) page  
 2. Install it on your Android device  
 3. Launch and explore! 🎉
 
