@@ -8,7 +8,7 @@ It’s still early, but the goal is clear: a clean, central place to explore and
 #### 🧭 Availability
 The project is currently available through two platforms:
 - 📱 Android App – Explore charts, browse content, and receive in-app updates
-- 🖥️ Web Dashboard – Publish and manage community content. Ideal for creators.
+- 🖥️ [Web Dashboard](https://bscm.netlify.app) – Publish and manage community content. Ideal for creators.
 
 ## 🚀 Features
 
