@@ -1,4 +1,8 @@
-<img alt="Main project cover" src=".github/cover.png" alt="bscm">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset=".github/cover.png">
+  <source media="(prefers-color-scheme: light)" srcset=".github/cover_light.png">
+    <img alt="bscm website" src=".github/cover_light.png">
+</picture>
 
 # 📦 bscm
 
