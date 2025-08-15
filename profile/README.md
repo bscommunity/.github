@@ -42,3 +42,8 @@ Want to help? You’re welcome!
 - Found a bug? Open an [issue](https://github.com/bscommunity/bscm/issues)
 - Have a feature idea? Suggest or submit a PR
 - Still no logo! If you’re into design, we’d love to see your take on one.
+
+> [!IMPORTANT]
+> **Disclaimer:** bscm is an **unofficial**, **fan-made** project. We are **not** affiliated, associated, authorized, endorsed by, or in any way officially connected with Beatstar, Space Ape Games, or any of their subsidiaries or partners.
+> All trademarks and copyrights related to Beatstar remain the property of their respective owners.
+> This is purely a community-driven initiative to enhance the player experience.
